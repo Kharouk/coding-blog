@@ -10,7 +10,7 @@ categories: 100-days-of-code dayOne
 ![Peace]({{ "https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib=rb-0.3.5&s=413bf668e2139f6aae03f6355bcd59a7&auto=format&fit=crop&w=1351&q=80" | absolute_url }})
 
 ### There are a lot of new beginnings in my life. 
-Especially in these last six months. I’ve been living in London for two years, in an apartment I wouldn’t necessarily call my home. I know, that’s a shame. It’s also unfair to my partner, whom I’ve been living with for a month now. 
+Especially in these last six months. I’ve been living in London for two years, in an apartment I wouldn’t necessarily call my home. I know, that’s a shame. It’s also unfair to my partner, whom I’ve been living with for a year now. 
 
 But you know that feeling. That feeling where you just feel hopeless and upset all the time. You feel bored, and procrastination feeds that boredom. You end up doing nothing with your life. The choices you made leading up to this moment were for nothing. 
 
