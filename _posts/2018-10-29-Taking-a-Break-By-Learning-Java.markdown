@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taking a Break (By Learning Java and TDDing FizzBuzz")
+title:  "Taking a Break (By Learning Java and TDDing FizzBuzz)"
 date:   2018-10-29 13:00:00 +0100
 categories: makers-academy java test-driven-development
 ---
