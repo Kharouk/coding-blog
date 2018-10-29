@@ -5,7 +5,8 @@ date:   2018-10-29 13:00:00 +0100
 categories: makers-academy java test-driven-development
 ---
 # Taking a Break (By Learning Java and TDDing FizzBuzz)
-![Learning Java By Test Driving Fizzbuzz](../assets/images/java-tdd-1.png)
+![Learning Java By Test Driving Fizzbuzz](https://i.imgur.com/pWxJ1E2.png)
+
 So today I become a senior developer (in the context of my course at Makers Academy). This means I've done two months of vigorous coding and I should be asking myself two questions:
 ```markdown
 Am I having fun?
@@ -58,6 +59,8 @@ That leaves a few other keywords that are unfamiliar to me. Static, void and (St
 So that's ' hello world' in a nutshell. There's also a bunch of other things as well like there's more to class than just defining Main. It's also a requirement in Java for everything to be inside a class. Talk about POOD am I right Sandi? From here I spent my Sunday learning datatypes. How everything must be specifically stated. No room for errors. And I catch myself thinking how good it feels. Yes, writing beginner Java code feels good after a week and a day of Rails. But that's just me.
 
 Before Java, I attempted FizzBuzz in Go. Whilst completing the challenge, I was stuck on compiling and wondered heavily why couldn't the creators of Go (come on Google) just have it be like Ruby?! So I didn't compile, because it felt pointless. It wasn't until I decided to practice a bit of Java that I now see why compiled languages exist, and why we still use them. I have not written a program yet that is massive, so I can't compare execution speeds with a program I wrote in Ruby, but I can imagine the difference. Anyways, I learned a bit more about the difference between java and javac. The latter is Java's compiler. I then looked into .class and how it's the 'bytecode' file that can be run on any platform (as long as you have java installed). After this, I was able to see 'Hello World' proudly displayed in my terminal.
+
+![FizzBuzz in Java](https://i.imgur.com/CoLOETW.png)
 
 Finally, the moment came to try out test-driven development in Java. I'm a huge fan of TDD, and I honestly think it's one of the main reasons I was able to develop as a developer so quickly in the last couple of months. So when learning a language, I also check out the testing. And the testing in Java is brutal. On top of that, I also wanted to solve JavaBuzz. No pressure.
 
