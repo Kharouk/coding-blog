@@ -266,6 +266,6 @@ If you want to attempt it yourself, check out this [repo](https://github.com/mak
 
 ---
 I'm very new to technical writing and hope to continue doing more posts. If you have any feedback or tips, or just general questions or comments, please send it my way. Any feedback is important feedback as a developer, so I'd really appreciate it.
+
 ---
 Want to see some 😎 content? Follow my coding Instagram account at [@codealist](https://www.instagram.com/codealist/).
----
