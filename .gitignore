@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 _posts/.DS_Store
 .vscode
+assets/bundle.js
+node_modules

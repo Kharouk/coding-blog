@@ -1,10 +1,4 @@
 GEM
-  remote: https://api.rubygems.org/
-  specs:
-    tzinfo-data (1.2018.7)
-      tzinfo (>= 1.0.0)
-
-GEM
   remote: https://rubygems.org/
   specs:
     activesupport (4.2.10)
@@ -214,7 +208,7 @@ GEM
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     octokit (4.13.0)
-      sawyer (>= 0.5.3, ~> 0.8.0)
+      sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -253,3 +247,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   tzinfo-data
+
+BUNDLED WITH
+   1.17.1
