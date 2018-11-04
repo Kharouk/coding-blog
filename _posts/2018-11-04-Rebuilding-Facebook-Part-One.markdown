@@ -6,7 +6,7 @@ categories: [nanowrimo, facebook]
 ---	
 # Rebuilding Facebook - It’s a Team Effort - Part I
 
-![Teamwork](../assets/teamwork.jpeg)
+![Teamwork](./assets/teamwork.jpeg)
 I started off my professional career as a solo writer. I never really had much experience working in a team. I worried I’d have nothing to say in stand-ups or retros. I worried wouldn’t be able to communicate properly what it is I’m feeling or what opinions I have. I worried it would be too difficult. I was right, on the last part. The last two weeks were spent trying to rebuild an existing social media. Facebook. It was going to be a grueling process, but potentially rewarding. It was also going to be done as a team.
 
 Oh boy. Before this project, I already had a group project to recreate [airBnB][1] here at [Makers][2]. However that project was only a week long and it was more about adjusting to a development process rather than completing a functional product. So when we realised we had two weeks to build Facebook from scratch, with teammates I’ve barely worked with before, I knew it was going to be a difficult task. But right away, I had three goals. These three goals guided me through our multiple meetings and conversations, and rewarded me when we succeeded and pulled me through when it was tough. My three goals were:
