@@ -1,5 +1,4 @@
 ---
-layout: page
-title: React App
+layout: project
 permalink: /projects/reactapp
 ---

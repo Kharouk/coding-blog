@@ -1,0 +1,19 @@
+{
+  "name": "kharouk.github.io",
+  "version": "0.0.1",
+  "description": "My Jekyll Blog with integrated webpack and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kharouk/kharouk.github.io.git"
+  },
+  "author": "Alex Kharouk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kharouk/kharouk.github.io/issues"
+  },
+  "homepage": "https://github.com/Kharouk/kharouk.github.io#readme"
+}
