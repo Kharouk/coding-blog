@@ -28,6 +28,12 @@ class Hello extends Component {
     return titles[Math.floor(Math.random() * titles.length)];
   }
   render() {
+    const specialGame = (
+      <div className="flex_secret">
+        <a>You have unlocked a SECRET game!</a>
+      </div>
+    );
+
     return (
       <div>
         <div className="container">
@@ -36,6 +42,7 @@ class Hello extends Component {
             Click Me.
           </button>
           <p className="flex_body">{this.state.count}</p>
+          {this.state.count > 50 && specialGame}
         </div>
       </div>
     );

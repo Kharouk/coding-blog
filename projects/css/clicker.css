@@ -42,3 +42,7 @@ main {
   order: 3;
   font-size: 2em;
 }
+
+.flex_secret {
+  order: 4;
+}
