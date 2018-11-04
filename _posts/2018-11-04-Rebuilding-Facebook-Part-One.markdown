@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rebuilding Facebook - It's a Team Effort - Part I"
-date:   2018-11-04 18:00:00 +0100
+date:   2018-11-04 07:00:00 +0100
 categories: [nanowrimo, facebook]
 ---	
 # Rebuilding Facebook - It’s a Team Effort - Part I
@@ -59,7 +59,7 @@ I think my skills in communication have improved, which is exactly what I wanted
 As mentioned previously, we were careful to review every single piece of code, and always understood the importance of listing, tests, and test coverage. However there were times where we did not test drive our code and although we maintained a lovely 100% test coverage, many members of our team agree that we could have done more code reviews. I have learend that it’s important to stick to what we initially set out to do. If we say we will TDD our code, and create user stories that can be done in the simplest of ways, **we should do it!**
 
 ### Respect
-Again, things generally went okay these last two weeks, but I don’t believe it was great in general. I don’t believe everyone on the team felt valued and felt the respect they deserved. This is something I’m definitely going to keep in my in my next group projects. I will make sure that everyone continues feeling like they have a voice, and that no matter what, remind people that it’s not alright to raise your voice or be rude. 
+Again, things generally went okay these last two weeks, but I don’t believe it was great in general. I don’t believe everyone on the team felt valued and felt the respect they deserved. This is something I’m definitely going to keep in mind in my next group projects. I will make sure that everyone continues feeling like they have a voice, and that no matter what, remind people that it’s not alright to raise your voice or be rude. 
 
 I always assumed respect originated from clear communication, but there is a reason the two XP values are separate.
 
