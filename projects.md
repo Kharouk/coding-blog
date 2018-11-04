@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-[Link to React](/projects/reactapp)
+[Link to React](/projects/react)
