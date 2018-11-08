@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rebuilding Facebook - Fluency in Programming - Part II"
-date:   2018-11-04 07:00:00 +0100
+date:   2018-11-08 12:00:00 +0100
 categories: [nanowrimo, facebook]
 ---	
 
