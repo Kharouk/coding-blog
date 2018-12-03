@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-[Clicker-ino](/projects/clicker)
+[Showcase Website (In Progress)](https://kharouk.surge.sh)
