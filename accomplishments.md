@@ -12,5 +12,5 @@ permalink: /accomplishments/
 - React for Beginners - 5 hours
   - An introduction to React taught by Wes Bos. Focused on creating an application which allows users to set up a fishing shop.
   - [Deployed Application](https://catchmeifyoucan.now.sh/)
-  - Award for completion:
-  ![certificate-react](assets/introreact.jpg)
+  - Award For Completion:
+  ![certificate-react](assets/introreact.png)
