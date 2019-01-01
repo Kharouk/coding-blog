@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="float:left;width:430px;">
-Welcome to my blog website! I recently graduated from <a src="https://www.makers.tech">Makers</a> and became a professional software developer. 
+Welcome to my blog website! I graduated from the bootcamp  <a src="https://www.makers.tech">Makers</a>, and am currently working as a full stack developer at MVF Global.
 
 <br><br>
 My aspirations include helping others. Either by teaching or contributing to a cause, I look forward to using my newly found skills to make the world a better place. 
